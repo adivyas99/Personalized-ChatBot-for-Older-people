@@ -13,7 +13,8 @@ Frameworks and Model used -
 
 • Highly competetive logics
 
-• Hold on! So many things are currently pending
+• Hold on! As many things are currently pending so wait for next updates!
 
 NOTE: The project is under construction so dont underestimate its power!✌🏻 Also, We are not uploaded the dataset due to big size of it! 
+
 
